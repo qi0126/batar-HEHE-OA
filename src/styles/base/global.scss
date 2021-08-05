@@ -1,0 +1,21 @@
+.elPageWrap {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.global-el-btn {
+    color: #9e0029;
+    background: rgb(246, 233, 236);
+    padding: 9px 15px;
+    font-size: 12px;
+    border-radius: 3px;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid rgb(219, 168, 180);
+    cursor: pointer;
+    &:hover {
+        color: #fff;
+        background: #9e0029;
+    }
+}
